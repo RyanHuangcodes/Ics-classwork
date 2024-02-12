@@ -3,7 +3,10 @@
 # Why did you take this course and what are you hoping to get out of it?
 
 # I am taking this grade 11 computer science course for a multitude of reasons, I am looking forward to majoring in computer engineer
-# and a credit and high grade in this course can really boost me to achieve a good university for the program. I really want to learn how # to code well in python which is a language I am not previously experienced in and also increasing my focus and work. I feel very ambitious # to do most of the classwork as I feel quite passionate and comfortable doing most of it. Im looking forward to coming out with a higher # understanding and ability in coding, more experience with computers, and a greater appreciation for both the course and the wonderful, # calm and powerful teacher that guides us through the course.
+# and a credit and high grade in this course can really boost me to achieve a good university for the program. I really want to learn how
+# to code well in python which is a language I am not previously experienced in and also increasing my focus and work. I feel very ambitious # to do most of the classwork as I feel quite passionate and comfortable doing most of it. Im looking forward to coming out with a higher
+# understanding and ability in coding, more experience with computers, and a greater appreciation for both the course and the wonderful,
+# calm and powerful teacher that guides us through the course.
 
 # What games and/or applications do you think are designed very well or have interesting features you would like to learn how to implement in your own games/applications? List the apps and features.
 
